@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "Masters in Computer Science"
   institution = "University of California, Irvine"
-  year = Present
+  year = 2018
 
 [[education.courses]]
   course = "B.E in Information Science and Engineering"
