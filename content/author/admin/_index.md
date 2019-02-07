@@ -36,11 +36,6 @@ interests = [
   institution = "The National Institute of Engineering, Mysore"
   year = 2012-1016
 
-[[education.courses]]
-  course = ""
-  institution = ""
-  year = 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
