@@ -34,7 +34,7 @@ interests = [
 [[education.courses]]
   course = "B.E in Information Science and Engineering"
   institution = "The National Institute of Engineering, Mysore"
-  year = 2012-1016
+  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
