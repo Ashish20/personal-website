@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Cisco Systems"
 #  company_url = ""
   location = "Bangalore, India"
-  date_start = "2016-08-01"
-  date_end = "2018-08-01"
+  date_start = "2016-01-08"
+  date_end = "2018-01-08"
   description = """
   Responsibilities include:
   
@@ -43,8 +43,8 @@ from 3 weeks to 1 week.
   company = "Cisco Systems"
   company_url = ""
   location = "Bangalore, India"
-  date_start = "2016-01-04"
-  date_end = "2016-06-31"
+  date_start = "2016-04-01"
+  date_end = "2016-31-06"
   description = """Optimized workflow process of HMP by reducing the approval time from 1 hour to less than a minute."""
 
 +++
