@@ -35,7 +35,7 @@ date_format = "January 2006"
   * Implemented Bulk Import Functionality to process 10,000 records in a few minutes, using parallel
 processing and Neo4j procedures.
   * Developed a Business Rule Engine Framework and optimized the hierarchy onboarding process from 3 weeks to 1 week.
-#  """
+  """
 
 [[experience]]
   title = "Intern, Software Engineer"
