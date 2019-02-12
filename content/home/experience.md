@@ -26,8 +26,6 @@ date_format = "January 2006"
 date_start = "2016-08-01"
 date_end = "2018-08-01"
   description = """
-  Responsibilities include:
-  
   * Transformed Hierarchy Management Platform (HMP) project from simple client-server architecture to far more robust multi-tier client-  server architecture.
   * Upgraded existing database (Neo4j) of HMP from version 1.9 to 3.1 to improve the scalability and performance of the platform.
   * Designing the new data model for the platform.
