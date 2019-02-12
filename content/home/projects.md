@@ -7,7 +7,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # Content.
 # Display content from the following folder.
@@ -36,14 +36,14 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
+ [[filter]]
+   name = "Relational DB from scratch in C++"
+   tag = "*"
+
+ [[filter]]
+   name = "Automatic Attendance System using Facial Recogntion"
+   tag = "*"
+
 # [[filter]]
 #   name = "Other"
 #   tag = "Demo"
