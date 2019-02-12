@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Cisco Systems"
 #  company_url = ""
   location = "Bangalore, India"
-  date_start = "August 1, 2016"
-  date_end = "August 1, 2018"
+#  date_start = "August 1, 2016"
+#  date_end = "August 1, 2018"
   description = """
   Responsibilities include:
   
@@ -42,8 +42,9 @@ processing and Neo4j procedures.
   company = "Cisco Systems"
   company_url = ""
   location = "Bangalore, India"
-  date_start = "January 4, 2016"
-  date_end = "June 31, 2016"
-  description = """Optimized workflow process of HMP by reducing the approval time from 1 hour to less than a minute."""
+#  date_start = "January 4, 2016"
+#  date_end = "June 31, 2016"
+  description = """
+  * Optimized workflow process of HMP by reducing the approval time from 1 hour to less than a minute."""
 
 +++
