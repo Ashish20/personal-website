@@ -18,11 +18,11 @@ weight = 9
 #   1 = List
 #   3 = Card
 #   5 = Showcase
-view = 5
+view = 3
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 2
+widget_layout = 0
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = true
@@ -37,16 +37,16 @@ filter_default = 0
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
  [[filter]]
-   name = "Relational DB from scratch in C++"
-   tag = "*"
+   name = "All"
+   tag = "All"
 
  [[filter]]
-   name = "Automatic Attendance System using Facial Recogntion"
-   tag = "*"
+   name = "Java"
+   tag = "Java"
 
  [[filter]]
-   name = "Head Pose Estimation using Neural Networks"
-   tag = "*"
+   name = "Other"
+   tag = "Other"
 
 +++
 
