@@ -22,6 +22,7 @@ email = "achoudhary94@gmail.com"
 interests = [
   "Database Management System",
   "Web Application development",
+  "Operating Systems",
   "Graph Database"
 ]
 
@@ -70,5 +71,7 @@ interests = [
 
 +++
 
-Ashish Choudhary is currently a Computer Science Graduate Studet at UC Irvine. His interests include database management systems, distributed systems and web application development. He used to work with Cisco as a Software Engineer where he got introduced to the world of Graph Database and became passionate about it.
-He used Neo4j(graph database) and Java extensively during his experience at Cisco which fostered his interest in the field of database management systems. To pursue his interest he decided to go back to school and continue his education. 
+I am a Computer Science Graduate Student at UC Irvine. My interests include database management systems, web application development, and operating systems. I have also explored Deep Learning and Artificial Intelligence through my Master's program and was thrilled by the power of AI and Neural Networks. 
+
+Previously, I used to work with Cisco as a Software Engineer where I got introduced to the world of Graph Database. I was fascinated by the idea of storing data in the unconventional form of Nodes and Edges which can exponentially improve the performance of a system and gives a totally different dimension of visualizing your data. Currently, I am exploring the fundamentals of an Operating System by studying in detail xv6, a modern re-implementation of one of the early UNIX Operating Systems. Also, I plan to develop a basic search engine through the Information Retrieval coursework.
+ 
